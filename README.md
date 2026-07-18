@@ -1,4 +1,32 @@
-# Vorder
+# Vorder SaaS Platform
+
+<p align="center">
+  <img src="./assets/cover.png" alt="Vorder Cover" width="100%">
+</p>
+
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Development-orange)
+
+![License](https://img.shields.io/badge/License-Showcase-lightgrey)
+
+![Architecture](https://img.shields.io/badge/Architecture-Feature--Based-blueviolet)
+
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+
+![REST API](https://img.shields.io/badge/API-REST-green)
+
+![Multi-Tenant](https://img.shields.io/badge/SaaS-Multi--Tenant-informational)
+
+</p>
 
 <p align="center">
 
@@ -12,7 +40,7 @@ Scalable, merchant-first commerce infrastructure built with modern front-end arc
 
 ## 🌐 Live Demo
 
-**Live Application:** https://vorder-sigma.vercel.app/
+🔗 https://vorder-sigma.vercel.app/
 
 ---
 
@@ -329,18 +357,15 @@ src/
 
 Additional engineering documentation is available inside the `/docs` directory.
 
-- Architecture
-- Features
-- Responsibilities
-- Challenges
-- Roadmap
+- [Architecture](docs/architecture.md)
 
----
-## License
+- [Features](docs/features.md)
 
-This repository is shared for portfolio and demonstration purposes only.
+- [Responsibilities](docs/responsibilities.md)
 
-The production source code remains private and proprietary.
+- [Challenges](docs/challenges.md)
+
+- [Roadmap](docs/roadmap.md)
 
 ---
 
